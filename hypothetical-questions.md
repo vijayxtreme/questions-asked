@@ -11,4 +11,4 @@
 - You’ve been reduced to the size of a bug, and a blender is about to turn on-- how would you make your way out before getting crushed?  
   - Jump out (this is more a physics problem than a coding problem)
 
->> For certain hypothetical problems -- good understanding of geometry and linear algebra are essential (being able to determine distance between two points, graphing, curves); also understanding of basic physics helps as well (determining if you want to move into gaming or animation).
+> For certain hypothetical problems -- good understanding of geometry and linear algebra are essential (being able to determine distance between two points, graphing, curves); also understanding of basic physics helps as well (determining if you want to move into gaming or animation).
