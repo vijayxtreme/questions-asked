@@ -70,6 +70,7 @@ filterPoets = (poetFilter) => {
 
 Implement a Hash Table in JS
   - https://www.mattzeunert.com/2017/02/01/implementing-a-hash-table-in-javascript.html
+  - https://www.youtube.com/watch?v=MfhjkfocRR0
 
 ## Other
 
