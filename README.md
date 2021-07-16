@@ -25,3 +25,4 @@
 - [DSA Qs](questions/dsa-qs.md)
 - [Design Patterns](questions/design-patterns.md)
 - [Asked By Companies](questions/questions-from-companies.md)
+- [Coding Challenges](questions/coding-challenges.md)
